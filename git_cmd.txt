@@ -1,6 +1,6 @@
-1.git init  ( ����git�ļ�)
-2.git remote add origin git@github.com:Tower-Cassie/�ֿ���.git
-3.git pull git@github.com:Tower-Cassie/�ֿ���.git(����"* branch   HEAD  -> FETCH_HEAD")
-4.git add �ļ��������Ӧ���ļ�
-5.git commit -m "ע��"(�Ὣע����Ϣ������ʾһ��)
-6.git push git@github.com:Tower-Cassie/�ֿ���.git
+1.git init  ( 生成git文件)
+2.git remote add origin git@github.com:Tower-Cassie/仓库名.git(Tower-Cassie是我自己的用户名，不同的人都不同)
+3.git pull git@github.com:Tower-Cassie/仓库名.git(生成"* branch   HEAD  -> FETCH_HEAD")(Tower-Cassie是我自己的用户名，不同的人都不同)
+4.git add 文件夹下面对应的文件
+5.git commit -m "注释"(会将注释信息重新显示一遍)
+6.git push git@github.com:Tower-Cassie/仓库名.git(Tower-Cassie是我自己的用户名，不同的人都不同)
